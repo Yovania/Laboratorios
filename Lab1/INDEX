@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Lab1</title>
+	<link rel="stylesheet" type="text/css" href="ESTILO/Estilo.css">
+	
+</head>
+
+<body>
+
+	<nav>
+		<ul>
+		<li><a href="">Inicio</a></li>
+		<li><a href="">Galeria</a></li>
+		<li><a href="">Producto</a></li>
+		<li><a href="">Contactos</a></li>
+		<li><a href="">Quienes Somos</a></li>
+
+		</ul><a href=""></a>
+	</nav>
+
+	<main>
+	<section>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora quasi incidunt animi laboriosam accusamus vitae illum, consequuntur debitis! Non distinctio aliquam eius doloremque nihil illo! Porro quisquam, nobis eaque laboriosam.</p>
+		<img src="IMAGEN/83H.JPG" alt="">
+	</section>
+
+	<section>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate voluptas at dicta quaerat ex vel tempore sit ipsam, rem commodi doloribus doloremque, iusto praesentium delectus quas nesciunt, voluptatum nisi vero.</p>
+	<img src="IMAGEN/83H.JPG" alt="">
+	</section>
+
+	<section>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo delectus a ipsa vero accusamus porro eum quo enim impedit, non, veritatis dicta quam reprehenderit. Non eum temporibus ullam adipisci, repudiandae.</p>
+		<img src="IMAGEN/83H.JPG" alt="">
+	</section>
+
+	<section>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, autem, perferendis in consequatur culpa cum inventore excepturi eaque dolore, suscipit, ratione molestias nemo commodi delectus unde odit tempora itaque quaerat!</p>
+		<img src="IMAGEN/83H.JPG" alt="">
+	</section>
+	</main>
+
+	<footer>
+		<h4>Elaborado Por Yari Yovania Fonseca Rosales &Copy 2016</h4>
+	</footer>
+	</body>
+	</html>
+

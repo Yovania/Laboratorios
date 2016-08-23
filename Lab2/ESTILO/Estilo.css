@@ -1,0 +1,135 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: white;
+	font-size: 18px;
+	padding: 12px;
+	text-decoration: none;
+	-webkit-transition: all 0.5s ease;
+	margin-right: 12px;
+	border-radius: 8px;
+}
+
+.articulo1{
+	width: 40%;
+
+}
+.articulo2{
+	background: white;
+	width: 50%;
+	margin: 12px;
+
+}
+
+.articulo1, .articulo2, .formulario{
+display: inline-block;
+vertical-align: top;
+}
+.formulario{
+	background: #D35C10;
+	padding: 15px;
+	opacity: 0;
+	height: 0;
+	width: 0;
+	
+}
+legend{
+	
+	margin-left: 3em;
+	text-align: center;
+}
+figure img{
+	width: 100%
+	background: white;
+}
+
+main{
+	margin-top: 15px;
+}
+
+li:hover, a:hover{
+	background: white;
+	color: black;
+	transform: scale(1.2) rotate(-5deg);
+	-webkit-transform:scale(1.2) rotate(-5deg);
+	transition:all 0.5s ease;
+	
+}
+
+body {
+	background: black;
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+
+}
+
+figcaption{
+	background: white;
+	color: black;
+	margin-left: 15px;
+	padding: 20px;
+}
+header{
+	margin-top: 10px;
+	padding: 40px;
+	text-align: center;
+	border: 5px solid #44E7FF;
+}
+h1{
+	text-shadow:#0ff 2px 2px 20px;
+}
+hgroup h2{
+	text-shadow:#FF6B25 2px 2px 20px;
+	margin-top: 5px;
+}
+input{
+	height: 2em;
+	margin-bottom: 8px;
+	width: 100%;
+}
+button{
+	font-size: 19px;
+	font-weight: bold;
+	height: 4em;
+	width: 100%;
+}
+button:hover{
+	border: 3px solid blue;
+	cursor: pointer;
+	font-size: 14px;
+}
+textarea{
+	width: 100%;
+}
+
+nav{
+	
+	background: rgba(60,60,150,0.8);
+	padding: 20px;
+	text-align: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+
+
+}
+
+nav ul li{
+	background: purple;
+	display: inline-block;
+	margin-right: 12px;
+	padding: 10px;
+	border-radius: 0.5em;
+}
+footer{
+	padding: 20px;
+	background: purple;
+	margin-top: 15px;
+	text-align: center;
+}
