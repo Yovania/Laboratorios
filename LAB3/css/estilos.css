@@ -1,0 +1,53 @@
+
+@font-face{
+	font-family: fuentem;
+	src:url(../font/montserrat.ttf) format('truetype')
+}
+
+@font-face{
+	font-family: texto;
+	src:url(../font/kaus.ttf) format('truetype');
+}
+
+html{
+	font-family: 'fuentem'
+}
+
+nav .brand-logo{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 2.8em;
+}
+
+
+
+.btn-large{
+	border-radius: 20px;
+	font-size: 1.2em;
+}
+.caption h3{
+	font-size: 50px;
+}
+.side.nav a nav ul a{
+	font-size: 1.4em;
+
+}
+
+section{
+	margin-top: 250px;
+}
+
+.slides{
+	height: 600px !important;
+
+}
+.ex{
+	margin-top: 250px;
+}
+
+.caption h5{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'texto';
+
+}
